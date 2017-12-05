@@ -1,10 +1,10 @@
-#### Ticket Title Naming Convention:
+### Ticket Title Naming Convention:
 * Provide a specific title
 * Highlight business area the request is for
 * State the high level requirement/functionality
 
 
-#### **Are you logging a bug? If so, please provide the following information.**
+## **Are you logging a bug? If so, please provide the following information.**
 
 * What were you doing when the bug arose? (one line) 
 * What was the issue?
@@ -20,7 +20,7 @@
 - P3 - Highlight non-essential piece of functionality that you would like addressed 
 
 
-#### **Are you logging a change request? If so, please provide the following information:**
+## **Are you logging a change request? If so, please provide the following information:**
 
 * Summary Description
 #### Detail in the functionality requested, not the solution
