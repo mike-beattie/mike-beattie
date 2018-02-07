@@ -3,7 +3,6 @@
 * Highlight business area the request is for
 * State the high level requirement/functionality
 
-
 ## **Are you logging a bug? If so, please provide the following information.**
 
 * What were you doing when the bug arose? (one line) 
@@ -20,7 +19,7 @@
 - P3 - Highlight non-essential piece of functionality that you would like addressed 
 
 
-## **Are you logging a change request? If so, please provide the following information:**
+## **Are you logging a change/enhancement? If so, please provide the following information:**
 
 * Summary Description
 #### Detail in the functionality requested, not the solution
@@ -42,17 +41,6 @@ For example:
 - Internal by name, or team
 - External
 
-**Training Considerations**
-1. Systems
-2. Process
-3. Marketing
-4. Support
-5. ANO?
-
-**Rollout Considerations**
-1. Go To Market 
-2. ANO?
-
 **User Stories**
 You may want to use the following format:
 As a <type of user/team member>, 
@@ -66,24 +54,10 @@ Then <the result of the action should/must be requested functionality>
 - [ ]  Story or Feature 1
 - [ ]  Story or Feature 2
 
-**Business Operational Stories**
-- [ ]  Story or Feature 1
-- [ ]  Story or Feature 2
-
-**Acceptance Criteria**
-- [ ]  Item 1
-- [ ]  Item 2
-
 **Task List**
 What do you think the key steps are to get this done
 - [ ]  Action 1, Owner
 - [ ]  Action 2, Owner
-
-** Go to Market Considerations/Plan**
-- [ ]  Action 1, Owner
-- [ ]  Action 2, Owner
-1. Item
-2. Item
 
 **Critical dependencies or related work items**
 1. Item
@@ -100,7 +74,6 @@ What do you think the key steps are to get this done
 **Supporting Documentation**
 * [Link 1]
 * [Link 2]
-
 
 **Solution**
 1.
